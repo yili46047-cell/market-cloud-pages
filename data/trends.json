@@ -1,0 +1,384 @@
+{
+ "date": "2026-10-23",
+ "hot_topics": [
+  {
+   "keyword": "SRTP",
+   "count": 452,
+   "heat": 62952
+  },
+  {
+   "keyword": "竞赛",
+   "count": 171,
+   "heat": 24544
+  },
+  {
+   "keyword": "电动车",
+   "count": 133,
+   "heat": 11656
+  },
+  {
+   "keyword": "实验",
+   "count": 126,
+   "heat": 13333
+  },
+  {
+   "keyword": "编程",
+   "count": 70,
+   "heat": 9487
+  },
+  {
+   "keyword": "保研",
+   "count": 63,
+   "heat": 13592
+  },
+  {
+   "keyword": "教材",
+   "count": 63,
+   "heat": 3311
+  },
+  {
+   "keyword": "社团",
+   "count": 47,
+   "heat": 11451
+  },
+  {
+   "keyword": "C语言",
+   "count": 37,
+   "heat": 3226
+  },
+  {
+   "keyword": "实验室",
+   "count": 35,
+   "heat": 7106
+  },
+  {
+   "keyword": "兼职",
+   "count": 23,
+   "heat": 3723
+  },
+  {
+   "keyword": "四六级",
+   "count": 22,
+   "heat": 1978
+  },
+  {
+   "keyword": "实习",
+   "count": 18,
+   "heat": 2670
+  },
+  {
+   "keyword": "二手电脑",
+   "count": 11,
+   "heat": 1189
+  }
+ ],
+ "rising_topics": [],
+ "new_topics": [],
+ "sustained_topics": [
+  {
+   "keyword": "SRTP",
+   "count": 452,
+   "days_on": 5
+  },
+  {
+   "keyword": "编程",
+   "count": 70,
+   "days_on": 5
+  },
+  {
+   "keyword": "保研",
+   "count": 63,
+   "days_on": 5
+  },
+  {
+   "keyword": "实验",
+   "count": 126,
+   "days_on": 5
+  },
+  {
+   "keyword": "四六级",
+   "count": 22,
+   "days_on": 5
+  },
+  {
+   "keyword": "竞赛",
+   "count": 171,
+   "days_on": 5
+  },
+  {
+   "keyword": "社团",
+   "count": 47,
+   "days_on": 5
+  },
+  {
+   "keyword": "实习",
+   "count": 18,
+   "days_on": 5
+  }
+ ],
+ "declining_topics": [],
+ "monthly_trends": [
+  {
+   "month": "2026-08",
+   "total": 15589,
+   "top_keywords": [
+    {
+     "keyword": "电动车",
+     "count": 992
+    },
+    {
+     "keyword": "教材",
+     "count": 947
+    },
+    {
+     "keyword": "实验",
+     "count": 562
+    },
+    {
+     "keyword": "四六级",
+     "count": 381
+    },
+    {
+     "keyword": "C语言",
+     "count": 289
+    },
+    {
+     "keyword": "SRTP",
+     "count": 238
+    },
+    {
+     "keyword": "保研",
+     "count": 179
+    },
+    {
+     "keyword": "竞赛",
+     "count": 178
+    },
+    {
+     "keyword": "编程",
+     "count": 137
+    },
+    {
+     "keyword": "实验室",
+     "count": 108
+    }
+   ],
+   "top_cates": [
+    {
+     "cate": "打听求助",
+     "count": 8903
+    },
+    {
+     "cate": "二手闲置",
+     "count": 5803
+    },
+    {
+     "cate": "校园趣事",
+     "count": 619
+    },
+    {
+     "cate": "恋爱交友",
+     "count": 260
+    },
+    {
+     "cate": "兼职招聘",
+     "count": 4
+    }
+   ],
+   "types": {
+    "other": 2743,
+    "help": 3658,
+    "transaction": 8216,
+    "opportunity": 758,
+    "info": 168,
+    "chat": 46
+   }
+  },
+  {
+   "month": "2026-09",
+   "total": 194712,
+   "top_keywords": [
+    {
+     "keyword": "教材",
+     "count": 10992
+    },
+    {
+     "keyword": "电动车",
+     "count": 7765
+    },
+    {
+     "keyword": "SRTP",
+     "count": 4828
+    },
+    {
+     "keyword": "实验",
+     "count": 4255
+    },
+    {
+     "keyword": "C语言",
+     "count": 4060
+    },
+    {
+     "keyword": "竞赛",
+     "count": 3347
+    },
+    {
+     "keyword": "编程",
+     "count": 3220
+    },
+    {
+     "keyword": "保研",
+     "count": 3061
+    },
+    {
+     "keyword": "社团",
+     "count": 2478
+    },
+    {
+     "keyword": "四六级",
+     "count": 2427
+    }
+   ],
+   "top_cates": [
+    {
+     "cate": "打听求助",
+     "count": 122361
+    },
+    {
+     "cate": "二手闲置",
+     "count": 56066
+    },
+    {
+     "cate": "校园趣事",
+     "count": 11455
+    },
+    {
+     "cate": "恋爱交友",
+     "count": 4755
+    },
+    {
+     "cate": "校园招聘",
+     "count": 51
+    },
+    {
+     "cate": "兼职招聘",
+     "count": 24
+    }
+   ],
+   "types": {
+    "transaction": 84372,
+    "help": 55260,
+    "other": 39790,
+    "chat": 1001,
+    "opportunity": 11577,
+    "info": 2712
+   }
+  },
+  {
+   "month": "2026-10",
+   "total": 95552,
+   "top_keywords": [
+    {
+     "keyword": "SRTP",
+     "count": 5949
+    },
+    {
+     "keyword": "竞赛",
+     "count": 3008
+    },
+    {
+     "keyword": "电动车",
+     "count": 2528
+    },
+    {
+     "keyword": "教材",
+     "count": 2243
+    },
+    {
+     "keyword": "实验",
+     "count": 1419
+    },
+    {
+     "keyword": "编程",
+     "count": 1212
+    },
+    {
+     "keyword": "保研",
+     "count": 1132
+    },
+    {
+     "keyword": "社团",
+     "count": 1122
+    },
+    {
+     "keyword": "C语言",
+     "count": 817
+    },
+    {
+     "keyword": "实验室",
+     "count": 455
+    }
+   ],
+   "top_cates": [
+    {
+     "cate": "打听求助",
+     "count": 66154
+    },
+    {
+     "cate": "二手闲置",
+     "count": 15545
+    },
+    {
+     "cate": "校园趣事",
+     "count": 9080
+    },
+    {
+     "cate": "恋爱交友",
+     "count": 4720
+    },
+    {
+     "cate": "兼职招聘",
+     "count": 33
+    },
+    {
+     "cate": "校园招聘",
+     "count": 20
+    }
+   ],
+   "types": {
+    "chat": 1032,
+    "other": 27002,
+    "opportunity": 8018,
+    "transaction": 27740,
+    "help": 29246,
+    "info": 2514
+   }
+  }
+ ],
+ "type_stats": [
+  {
+   "type": "help",
+   "count": 1587
+  },
+  {
+   "type": "other",
+   "count": 1463
+  },
+  {
+   "type": "transaction",
+   "count": 1160
+  },
+  {
+   "type": "opportunity",
+   "count": 551
+  },
+  {
+   "type": "info",
+   "count": 156
+  },
+  {
+   "type": "chat",
+   "count": 31
+  }
+ ]
+}
