@@ -1,70 +1,70 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "hot_topics": [
   {
    "keyword": "SRTP",
-   "count": 368,
-   "heat": 48032
+   "count": 355,
+   "heat": 45247
   },
   {
    "keyword": "实验",
-   "count": 193,
-   "heat": 16028
+   "count": 198,
+   "heat": 15716
   },
   {
    "keyword": "竞赛",
-   "count": 177,
-   "heat": 21887
+   "count": 159,
+   "heat": 19371
   },
   {
    "keyword": "电动车",
-   "count": 116,
-   "heat": 9254
+   "count": 112,
+   "heat": 9303
   },
   {
    "keyword": "编程",
-   "count": 99,
-   "heat": 16544
+   "count": 97,
+   "heat": 16249
   },
   {
    "keyword": "保研",
-   "count": 52,
-   "heat": 11237
+   "count": 46,
+   "heat": 10488
   },
   {
    "keyword": "社团",
-   "count": 44,
-   "heat": 10707
+   "count": 40,
+   "heat": 9719
   },
   {
    "keyword": "教材",
-   "count": 32,
-   "heat": 2085
-  },
-  {
-   "keyword": "兼职",
-   "count": 25,
-   "heat": 4693
+   "count": 31,
+   "heat": 1913
   },
   {
    "keyword": "实验室",
    "count": 24,
-   "heat": 4370
+   "heat": 4216
+  },
+  {
+   "keyword": "兼职",
+   "count": 21,
+   "heat": 3668
   },
   {
    "keyword": "C语言",
-   "count": 21,
-   "heat": 2040
+   "count": 17,
+   "heat": 1614
   },
   {
    "keyword": "实习",
-   "count": 17,
-   "heat": 2268
+   "count": 16,
+   "heat": 2139
   },
   {
    "keyword": "二手电脑",
-   "count": 14,
-   "heat": 1186
+   "count": 13,
+   "heat": 1047
   },
   {
    "keyword": "四六级",
@@ -76,43 +76,43 @@
  "new_topics": [],
  "sustained_topics": [
   {
-   "keyword": "电动车",
-   "count": 116,
-   "days_on": 5
-  },
-  {
    "keyword": "实验",
-   "count": 193,
+   "count": 198,
    "days_on": 5
   },
   {
-   "keyword": "保研",
-   "count": 52,
-   "days_on": 5
-  },
-  {
-   "keyword": "教材",
-   "count": 32,
+   "keyword": "电动车",
+   "count": 112,
    "days_on": 5
   },
   {
    "keyword": "SRTP",
-   "count": 368,
+   "count": 355,
    "days_on": 5
   },
   {
    "keyword": "竞赛",
-   "count": 177,
+   "count": 159,
+   "days_on": 5
+  },
+  {
+   "keyword": "保研",
+   "count": 46,
+   "days_on": 5
+  },
+  {
+   "keyword": "实验室",
+   "count": 24,
+   "days_on": 5
+  },
+  {
+   "keyword": "教材",
+   "count": 31,
    "days_on": 5
   },
   {
    "keyword": "二手电脑",
-   "count": 14,
-   "days_on": 5
-  },
-  {
-   "keyword": "实习",
-   "count": 17,
+   "count": 13,
    "days_on": 5
   }
  ],
@@ -276,109 +276,109 @@
   },
   {
    "month": "2026-10",
-   "total": 130678,
+   "total": 135382,
    "top_keywords": [
     {
      "keyword": "SRTP",
-     "count": 8845
+     "count": 9200
     },
     {
      "keyword": "竞赛",
-     "count": 4298
+     "count": 4457
     },
     {
      "keyword": "电动车",
-     "count": 3405
+     "count": 3517
     },
     {
      "keyword": "实验",
-     "count": 2586
+     "count": 2784
     },
     {
      "keyword": "教材",
-     "count": 2508
+     "count": 2539
     },
     {
      "keyword": "编程",
-     "count": 1857
+     "count": 1954
     },
     {
      "keyword": "保研",
-     "count": 1509
+     "count": 1555
     },
     {
      "keyword": "社团",
-     "count": 1430
+     "count": 1470
     },
     {
      "keyword": "C语言",
-     "count": 1027
+     "count": 1044
     },
     {
      "keyword": "实验室",
-     "count": 667
+     "count": 691
     }
    ],
    "top_cates": [
     {
      "cate": "打听求助",
-     "count": 92052
+     "count": 95494
     },
     {
      "cate": "二手闲置",
-     "count": 19888
+     "count": 20476
     },
     {
      "cate": "校园趣事",
-     "count": 12646
+     "count": 13146
     },
     {
      "cate": "恋爱交友",
-     "count": 6013
+     "count": 6184
     },
     {
      "cate": "兼职招聘",
-     "count": 41
+     "count": 42
     },
     {
      "cate": "校园招聘",
-     "count": 38
+     "count": 40
     }
    ],
    "types": {
-    "chat": 1321,
-    "other": 37764,
-    "opportunity": 11931,
-    "transaction": 35992,
-    "help": 40143,
-    "info": 3527
+    "chat": 1370,
+    "other": 39239,
+    "opportunity": 12432,
+    "transaction": 37141,
+    "help": 41552,
+    "info": 3648
    }
   }
  ],
  "type_stats": [
   {
    "type": "other",
-   "count": 1528
+   "count": 1475
   },
   {
    "type": "help",
-   "count": 1492
+   "count": 1409
   },
   {
    "type": "transaction",
-   "count": 1201
+   "count": 1149
   },
   {
    "type": "opportunity",
-   "count": 519
+   "count": 501
   },
   {
    "type": "info",
-   "count": 129
+   "count": 121
   },
   {
    "type": "chat",
-   "count": 47
+   "count": 49
   }
  ]
 }
