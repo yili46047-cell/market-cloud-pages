@@ -12,6 +12,18 @@
   "low_exposure": false
  },
  {
+  "thread_id": "2196466442",
+  "title": "用户实验招募",
+  "url": "",
+  "cate_name": "打听求助",
+  "nickname": "咦哈",
+  "p_time": "1795835609",
+  "opportunity_type": "科研招募",
+  "deadline": null,
+  "heat": 93,
+  "low_exposure": true
+ },
+ {
   "thread_id": "2194544885",
   "title": "别把假期交给司凤驾校",
   "url": "",
@@ -20,7 +32,7 @@
   "p_time": "1795588706",
   "opportunity_type": "科研招募",
   "deadline": null,
-  "heat": 1026,
+  "heat": 1011,
   "low_exposure": false
  },
  {
@@ -36,6 +48,18 @@
   "low_exposure": false
  },
  {
+  "thread_id": "2196352044",
+  "title": "srtp讲座",
+  "url": "",
+  "cate_name": "打听求助",
+  "nickname": "会发光的小精灵",
+  "p_time": "1795795662",
+  "opportunity_type": "讲座活动",
+  "deadline": null,
+  "heat": 128,
+  "low_exposure": false
+ },
+ {
   "thread_id": "2195609036",
   "title": "关于美赛",
   "url": "",
@@ -44,7 +68,7 @@
   "p_time": "1795703456",
   "opportunity_type": "竞赛组队",
   "deadline": null,
-  "heat": 137,
+  "heat": 122,
   "low_exposure": false
  },
  {
@@ -72,42 +96,6 @@
   "low_exposure": false
  },
  {
-  "thread_id": "2195822578",
-  "title": "美赛组队二缺一",
-  "url": "",
-  "cate_name": "打听求助",
-  "nickname": "洋Y",
-  "p_time": "1795748668",
-  "opportunity_type": "竞赛组队",
-  "deadline": null,
-  "heat": 116,
-  "low_exposure": true
- },
- {
-  "thread_id": "2194571054",
-  "title": "美赛组队二等一",
-  "url": "",
-  "cate_name": "打听求助",
-  "nickname": "追水",
-  "p_time": "1795591000",
-  "opportunity_type": "竞赛组队",
-  "deadline": null,
-  "heat": 109,
-  "low_exposure": true
- },
- {
-  "thread_id": "2195918027",
-  "title": "美赛捞人",
-  "url": "",
-  "cate_name": "打听求助",
-  "nickname": "Estrela",
-  "p_time": "1795756578",
-  "opportunity_type": "竞赛组队",
-  "deadline": null,
-  "heat": 66,
-  "low_exposure": true
- },
- {
   "thread_id": "2188412579",
   "title": "美赛组队",
   "url": "",
@@ -120,16 +108,64 @@
   "low_exposure": true
  },
  {
-  "thread_id": "2194549075",
-  "title": "人工智能通识导论作业是啥",
+  "thread_id": "2196493288",
+  "title": "本科生SRTP讲座加分限制",
   "url": "",
   "cate_name": "打听求助",
-  "nickname": "都市潜水大师",
-  "p_time": "1795589071",
+  "nickname": "camelli",
+  "p_time": "1795838410",
   "opportunity_type": "讲座活动",
-  "deadline": "截止：啊？他好像没在群里发",
-  "heat": 116,
+  "deadline": "今天",
+  "heat": 179,
+  "low_exposure": false
+ },
+ {
+  "thread_id": "2194571054",
+  "title": "美赛组队二等一",
+  "url": "",
+  "cate_name": "打听求助",
+  "nickname": "追水",
+  "p_time": "1795591000",
+  "opportunity_type": "竞赛组队",
+  "deadline": null,
+  "heat": 94,
   "low_exposure": true
+ },
+ {
+  "thread_id": "2195918027",
+  "title": "美赛捞人",
+  "url": "",
+  "cate_name": "打听求助",
+  "nickname": "Estrela",
+  "p_time": "1795756578",
+  "opportunity_type": "竞赛组队",
+  "deadline": null,
+  "heat": 46,
+  "low_exposure": true
+ },
+ {
+  "thread_id": "2195822578",
+  "title": "美赛组队二缺一",
+  "url": "",
+  "cate_name": "打听求助",
+  "nickname": "洋Y",
+  "p_time": "1795748668",
+  "opportunity_type": "竞赛组队",
+  "deadline": null,
+  "heat": 81,
+  "low_exposure": true
+ },
+ {
+  "thread_id": "2196423431",
+  "title": "问问第二课堂",
+  "url": "",
+  "cate_name": "打听求助",
+  "nickname": "穿斗篷的小魔法师",
+  "p_time": "1795829848",
+  "opportunity_type": "讲座活动",
+  "deadline": null,
+  "heat": 158,
+  "low_exposure": false
  },
  {
   "thread_id": "2187725352",
@@ -141,42 +177,6 @@
   "opportunity_type": "竞赛组队",
   "deadline": null,
   "heat": 47,
-  "low_exposure": true
- },
- {
-  "thread_id": "2189791135",
-  "title": "人工智能组队",
-  "url": "",
-  "cate_name": "打听求助",
-  "nickname": "水镜",
-  "p_time": "1794973252",
-  "opportunity_type": "竞赛组队",
-  "deadline": null,
-  "heat": 60,
-  "low_exposure": true
- },
- {
-  "thread_id": "2188919666",
-  "title": "人生是每24H刷新、存档永存的游戏",
-  "url": "",
-  "cate_name": "校园趣事",
-  "nickname": "记得说嗨",
-  "p_time": "1794847614",
-  "opportunity_type": "讲座活动",
-  "deadline": "今天",
-  "heat": 108,
-  "low_exposure": true
- },
- {
-  "thread_id": "2194452874",
-  "title": "美赛招募",
-  "url": "",
-  "cate_name": "打听求助",
-  "nickname": "孤帆渡海",
-  "p_time": "1795580587",
-  "opportunity_type": "科研招募",
-  "deadline": null,
-  "heat": 66,
   "low_exposure": true
  }
 ]
